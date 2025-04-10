@@ -5,12 +5,12 @@ I'm a software developer passionate about AI, blockchain, and building impactful
 
 ## 🌟 Projects  
 Here are some of my notable works:  
-- **[resolutionplus](https://github.com/Lokesh-D-ojha/resolutionplus)** - A Python project for [add brief description if you want]. *Updated on Mar 5, 2025.*  
+- **[resolutionplus](https://github.com/Lokesh-D-ojha/resolutionplus)** - A Python project for upscale images resolution using django and reat js. *Updated on Mar 5, 2025.*  
 - **[Csit_labs-Al](https://github.com/Lokesh-D-ojha/Csit_labs-Al)** - B.Sc CSIT lab work covering all labs. Written in C++. *Updated on Sep 20, 2024.*  
 - **[Blockchain-Project](https://github.com/Lokesh-D-ojha/Blockchain-Project)** - A blockchain exploration project in Python. *Updated on Sep 20, 2024.*  
 - **[Csit-Labs](https://github.com/Lokesh-D-ojha/Csit-Labs)** - CSIT lab exercises in C#. *Updated on Jun 2, 2024.*  
 - **[Dotnet_Resources](https://github.com/Lokesh-D-ojha/Dotnet_Resources)** - Resources and projects in C#. *Updated on Jun 2, 2024.*  
-- **[Portfolio](https://github.com/Lokesh-D-ojha/Portfolio)** - My personal portfolio showcasing my work. *[Add language if applicable].*  
+- **[Portfolio](https://github.com/Lokesh-D-ojha/Portfolio)** - My personal portfolio showcasing my work. *React Js.*  
 
 ---
 
